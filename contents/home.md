@@ -1,6 +1,6 @@
 
 
-[![LCDGITH](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/LCDGITH)
+[![LCDGITH](https://img.shields.io/badge/LCDGITH-github-blue?logo=github)](https://github.com/LCDGITH)
 
 I am a first-year doctoral candidate at the School of Information Management, Nanjing University. My major is Information Resources Management.我是南京大学信息管理学院一年级博士候选人，我的专业是信息资源管理。
 
