@@ -1,16 +1,14 @@
-#### Submitted
+#### 论文
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+截止目前，我已经发表论文4篇。其中，中文核心论文3篇，英文核心论文1篇，第一作者2篇。此外，我还发表了3篇会议论文，其中1篇获得了“第十四届科学计量学与科教评价国际研讨会”优秀论文三等奖。
+1. 李春东,马廷灿,岳名亮. 基于参与、推动与引领的全球科研贡献解析[J/OL]. 科学学研究, 1-23. https://doi.org/10.16192/j.cnki.1003-2053.20240223.003.
+1. 李春东,马廷灿,岳名亮,等. 氟离子电池技术国际研究态势分析[J]. 电池, 2023, 53(04): 438-442.
+1. 宋永辉,袁蕾涵,李春东,等. 中国卓越青年科学家成长特征与科研产出规律研究——来自“科学探索奖”获得者的证据[J]. 科学管理研究, 2023, 41(04): 105-116.
+1. Shi, Y., Li, C., Luo, L. Impact of the COVID-19 pandemic on Chinese college students’ information behavior and library needs: A qualitative study[J]. The Library Quarterly, 2021, 91(2): 150-71.
+1. 李春东,马廷灿,岳名亮. 哪些国家在引领世界科学前沿?——基于极高被引论文视角的分析[C]. 第十四届全国科学计量学与科教评价研讨会, 2023.
+1. 李春东,马廷灿,岳名亮. 极高被引论文作者群体特征研究——以2000年及以前的极高被引SCI论文为例[C].第十三届全国科学计量学与科教评价研讨会, 2022.
 
-#### Published
+#### 项目
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+硕士期间的科研项目参与。
 
