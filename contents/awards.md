@@ -1,16 +1,18 @@
-
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Student, 2024.
-
-- First-Prize Scholarship (CUMT), 2024.
-
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+截止目前，我在本硕期间获得的奖项有22项。国家级奖项1项；学业学习类奖项10项；学生工作类奖项4项；科研竞赛类奖项5项。
+- 国家级奖项：
+1. 2021年中华人民共和国教育部国家奖学金
+- 学习学业奖项：
+1. 连续获得中国科学院大学2022-2023、2023-2024学年“三好学生”
+1. 山西大学2022届优秀毕业生、2022届校级本科优秀毕业论文
+1. 连续四年获山西大学一等优秀学生学业奖学金
+1. 两次获山西大学年度“三好学生”、国家励志奖学金
+- 学生工作奖项：
+1. 中国科学院大学2023-2024学年“优秀学生干部”
+1. 中国科学院文献情报中心2023-2024学年优秀研究生干部
+1. 两次获山西大学“优秀学生干部”
+- 科研竞赛奖项：
+1. “第十四届科学计量学与科教评价国际研讨会”优秀论文三等奖
+1. 山西省社会科学界联合会2021年度“百部（篇）工程”二等奖
+1. 全国大学生数学建模竞赛山西赛区一等奖
+1. 山西大学数学建模比赛一等奖
+1. “正大杯”第十一届全国大学生市场调查与分析大赛山西大学校赛二等奖
