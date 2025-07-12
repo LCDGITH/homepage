@@ -48,10 +48,17 @@ section header h2{
     line-height: 4rem;
 }
 
-section .main-body{
-    font-size: 1.3rem;
-    font-weight: 200;
-    line-height: 2.4rem;
+/* 减小正文字体 */
+section .main-body {
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.8rem;
+}
+
+@media screen and (max-width: 768px) {
+    section .main-body {
+        font-size: 0.9rem;
+    }
 }
 
 
