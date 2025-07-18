@@ -1,4 +1,4 @@
-
+<img width="1603" height="607" alt="image" src="https://github.com/user-attachments/assets/4958ac3c-3895-4f96-a23e-95bf0f48cbac" />
 
 [![LCDGITH](https://img.shields.io/badge/LCDGITH-github-blue?logo=github)](https://github.com/LCDGITH)
 
@@ -9,8 +9,8 @@ I am a first-year PhD Student at the School of Information Management, Nanjing U
 Email: lichundong22@mails.ucas.ac.cn
 
 #### 教育经历/Education
-- *2025.07 - 2029.12*, [南京大学](https://www.nju.edu.cn/) 信息管理学院, 江苏南京, 导师[潘雪莲](https://im.nju.edu.cn/pxl1/list.htm), 博士候选人 <br>
- *Jul 2025 – Dec 2029*, Ph.D. Candidate  
+- *2025.07 - 2029.06*, [南京大学](https://www.nju.edu.cn/) 信息管理学院, 江苏南京, 导师[潘雪莲](https://im.nju.edu.cn/pxl1/list.htm), 博士候选人 <br>
+ *Jul 2025 – Dec 2029*，PhD Student
   School of Information Management, [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu  
   Supervisor: [Pan Xuelian](https://im.nju.edu.cn/pxl1/list.htm)
 - *2022.09 - 2025.06*, [中国科学院大学](https://www.ucas.ac.cn/) 中国科学院文献情报中心, 北京市, 导师[马廷灿](https://people.ucas.ac.cn/~mtc), 推免硕士 <br>
