@@ -5,6 +5,7 @@
 1. 李春东,马廷灿,岳名亮,等. 氟离子电池技术国际研究态势分析[J]. 电池, 2023, 53(04): 438-442.
 1. 宋永辉,袁蕾涵,李春东,等. 中国卓越青年科学家成长特征与科研产出规律研究——来自“科学探索奖”获得者的证据[J]. 科学管理研究, 2023, 41(04): 105-116.
 1. Shi, Y., Li, C., Luo, L. Impact of the COVID-19 pandemic on Chinese college students’ information behavior and library needs: A qualitative study[J]. The Library Quarterly, 2021, 91(2): 150-71.
+1. Lewei Zhou, Mingliang Yue, Tingcan Ma & Chundong Li . The impact of patent citation on the citation performance of academic papers[J].Scientometrics
 1. 李春东,马廷灿,岳名亮. 哪些国家在引领世界科学前沿?——基于极高被引论文视角的分析[C]. 第十四届全国科学计量学与科教评价研讨会, 2023.
 1. 李春东,马廷灿,岳名亮. 极高被引论文作者群体特征研究——以2000年及以前的极高被引SCI论文为例[C].第十三届全国科学计量学与科教评价研讨会, 2022.
 
