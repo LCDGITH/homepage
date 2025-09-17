@@ -4,7 +4,7 @@ I am a first-year PhD Student at the School of Information Management, Nanjing U
 
 #### Email/邮箱
 
-Email: lichundong22@mails.ucas.ac.cn
+Email: lichd@smail.nju.edu.cn
 
 #### 教育经历/Education
 - *2025.07 - 2029.06*, [南京大学](https://www.nju.edu.cn/) 信息管理学院, 江苏南京, 导师[潘雪莲](https://im.nju.edu.cn/pxl1/list.htm), 博士候选人 <br>
