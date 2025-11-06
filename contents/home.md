@@ -8,13 +8,13 @@ Email: lichd@smail.nju.edu.cn
 
 #### 教育经历/Education
 - *2025.07 - 2029.06*, [南京大学](https://www.nju.edu.cn/) 信息管理学院, 江苏南京, 导师[潘雪莲](https://im.nju.edu.cn/pxl1/list.htm), 博士候选人 <br>
- *Jul 2025 – Dec 2029*，PhD Student
+ *Jul 2025 – Jun 2029*，PhD Candidate
   School of Information Management, [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu  
   Supervisor: [Pan Xuelian](https://im.nju.edu.cn/pxl1/list.htm)
 - *2022.09 - 2025.06*, [中国科学院大学](https://www.ucas.ac.cn/) 中国科学院文献情报中心, 北京市, 导师[马廷灿](https://people.ucas.ac.cn/~mtc), 推免硕士 <br>
- *Jul 2025 – Dec 2029*, Ph.D. Candidate  
-  School of Information Management, [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu  
-  Supervisor: [Pan Xuelian](https://im.nju.edu.cn/pxl1/list.htm)
+ *Sep 2022 – Jun 2025*, Master Student
+  [National Science Library](https://english.las.cas.cn/), [University of Chinese Academy of Sciences](https://english.cas.cn/), Beijing 
+  Supervisor: [Ma Tingcan](https://people.ucas.ac.cn/~mtc)
 - *2018.09 - 2022.06*, [山西大学](https://www.sxu.edu.cn/) 经济与管理学院, 山西太原, 本科<br>
  *Sep 2018 – Jun 2022*, B.A.  
   School of Economics and Management, [Shanxi University](https://www.sxu.edu.cn/), Taiyuan, Shanxi
