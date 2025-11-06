@@ -1,6 +1,7 @@
 [![LCDGITH](https://img.shields.io/badge/LCDGITH-github-blue?logo=github)](https://github.com/LCDGITH)
 
-I am a first-year PhD Student at the School of Information Management, Nanjing University. My major is Information Resources Management.我是南京大学信息管理学院一年级博士候选人，我的专业是信息资源管理。
+I am a first-year PhD Student at the School of Information Management, Nanjing University. My major is Information Resources Management. <br>
+我是南京大学信息管理学院一年级博士候选人，我的专业是信息资源管理。
 
 #### Email/邮箱
 
@@ -20,5 +21,5 @@ Email: lichd@smail.nju.edu.cn
   School of Economics and Management, [Shanxi University](https://www.sxu.edu.cn/), Taiyuan, Shanxi
 
 #### 研究方向/Research Interests
-信息资源管理，信息检索，科学计量<br>
-Information resource management, information retrieval, scientific metrology
+信息资源管理，国际学术流动， 大模型，科学计量<br>
+Information resource management, International Academic Mobility, Large Language Models, scientific metrology
