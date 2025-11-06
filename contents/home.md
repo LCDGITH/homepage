@@ -13,7 +13,7 @@ Email: lichd@smail.nju.edu.cn
   Supervisor: [Pan Xuelian](https://im.nju.edu.cn/pxl1/list.htm)
 - *2022.09 - 2025.06*, [中国科学院大学](https://www.ucas.ac.cn/) 中国科学院文献情报中心, 北京市, 导师[马廷灿](https://people.ucas.ac.cn/~mtc), 推免硕士 <br>
  *Sep 2022 – Jun 2025*, Master Student
-  [National Science Library](https://english.las.cas.cn/), [University of Chinese Academy of Sciences](https://english.cas.cn/), Beijing 
+  [National Science Library](https://english.las.cas.cn/), [University of Chinese Academy of Sciences](https://english.cas.cn/), Beijing <br> 
   Supervisor: [Ma Tingcan](https://people.ucas.ac.cn/~mtc)
 - *2018.09 - 2022.06*, [山西大学](https://www.sxu.edu.cn/) 经济与管理学院, 山西太原, 本科<br>
  *Sep 2018 – Jun 2022*, B.A.  
