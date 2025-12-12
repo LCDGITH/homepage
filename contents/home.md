@@ -8,7 +8,7 @@ I am a first-year PhD Student at the School of Information Management, Nanjing U
 Email: lichd@smail.nju.edu.cn
 
 #### 教育经历/Education
-- *2025.07 - 2029.06*, [南京大学](https://www.nju.edu.cn/) 信息管理学院, 江苏南京, 导师[潘雪莲](https://im.nju.edu.cn/pxl1/list.htm), 博士候选人 <br>
+- *2025.07 - 2029.06*, [南京大学](https://www.nju.edu.cn/) 信息管理学院, 江苏南京, 导师[潘雪莲](https://im.nju.edu.cn/info/1099/50911.htm), 博士候选人 <br>
  *Jul 2025 – Jun 2029*，PhD Candidate
   School of Information Management, [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu  
   Supervisor: [Pan Xuelian](https://im.nju.edu.cn/pxl1/list.htm)
