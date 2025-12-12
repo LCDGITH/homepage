@@ -8,6 +8,7 @@
 1. Lewei Zhou, Mingliang Yue, Tingcan Ma & Chundong Li . The impact of patent citation on the citation performance of academic papers[J].Scientometrics
 1. 李春东,马廷灿,岳名亮. 哪些国家在引领世界科学前沿?——基于极高被引论文视角的分析[C]. 第十四届全国科学计量学与科教评价研讨会, 2023.
 1. 李春东,马廷灿,岳名亮. 极高被引论文作者群体特征研究——以2000年及以前的极高被引SCI论文为例[C].第十三届全国科学计量学与科教评价研讨会, 2022.
+1. 李春东,潘雪莲,顾江唯. 高国际学术流动绩效何以实现？——基于207个案例的fsQCA与NCA联合分析[C]. 2025年江苏省研究生第一届信息资源管理学术创新论坛, 2025.
 
 #### 项目
 
