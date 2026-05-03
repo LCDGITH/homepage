@@ -238,7 +238,7 @@ section .main-body li::marker {
     align-items: center;
     justify-content: center;
     gap: 0.35rem;
-    min-width: 4.2rem;
+    min-width: 5rem;
     height: 2.15rem;
     padding: 0 0.65rem;
     color: #111827;
