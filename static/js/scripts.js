@@ -93,6 +93,7 @@ function renderInteraction(state) {
 
     viewCount.textContent = state.views;
     likeCount.textContent = state.likes;
+    likeButton.disabled = false;
     likeButton.classList.toggle('is-liked', state.liked);
     likeButton.setAttribute('aria-pressed', String(state.liked));
 
@@ -105,13 +106,18 @@ function renderInteraction(state) {
 function renderInteractionError() {
     const viewCount = document.getElementById('view-count');
     const likeCount = document.getElementById('like-count');
+    const likeButton = document.getElementById('like-button');
 
     if (viewCount) {
-        viewCount.textContent = '-';
+        viewCount.textContent = '\u52a0\u8f7d\u5931\u8d25';
     }
 
     if (likeCount) {
-        likeCount.textContent = '-';
+        likeCount.textContent = '\u52a0\u8f7d\u5931\u8d25';
+    }
+
+    if (likeButton) {
+        likeButton.disabled = true;
     }
 }
 
@@ -163,6 +169,30 @@ async function initInteraction() {
             likeButton.disabled = false;
         }
     });
+}
+
+
+function scheduleInteractionInit() {
+    const start = () => {
+        const run = () => {
+            initInteraction().catch(error => {
+                console.error(error);
+                renderInteractionError();
+            });
+        };
+
+        if ('requestIdleCallback' in window) {
+            requestIdleCallback(run, { timeout: 2500 });
+        } else {
+            setTimeout(run, 800);
+        }
+    };
+
+    if (document.readyState === 'complete') {
+        start();
+    } else {
+        window.addEventListener('load', start, { once: true });
+    }
 }
 
 
@@ -223,9 +253,6 @@ window.addEventListener('DOMContentLoaded', event => {
             .catch(error => console.log(error));
     })
 
-    initInteraction().catch(error => {
-        console.error(error);
-        renderInteractionError();
-    });
+    scheduleInteractionInit();
 
 });
