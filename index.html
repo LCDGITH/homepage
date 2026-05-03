@@ -72,6 +72,7 @@
     <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     
     <!-- Core JS-->
+    <script type="text/javascript" src="static/js/interaction-config.js"></script>
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
 
@@ -118,6 +119,17 @@
     <div class="container px-5">
         <div id="avatar">
             <img class="shadow" src="static/assets/img/photo.png">
+            <div class="profile-interaction" aria-label="site interaction statistics">
+                <span class="profile-stat">
+                    <i class="bi bi-eye-fill"></i>
+                    <span id="view-count">0</span>
+                </span>
+                <button class="profile-like-button" id="like-button" type="button" aria-pressed="false">
+                    <i class="bi bi-heart-fill"></i>
+                    <span id="like-count">0</span>
+                    <span class="visually-hidden" id="like-label">&#28857;&#36190;</span>
+                </button>
+            </div>
         </div>
     </div>
     <!-- Photo -->
