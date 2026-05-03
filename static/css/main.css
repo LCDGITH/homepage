@@ -225,6 +225,58 @@ section .main-body li::marker {
     object-fit: cover;
 }
 
+.profile-interaction {
+    display: flex;
+    justify-content: center;
+    gap: 0.45rem;
+    margin-top: 0.6rem;
+}
+
+.profile-stat,
+.profile-like-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    min-width: 4.2rem;
+    height: 2.15rem;
+    padding: 0 0.65rem;
+    color: #111827;
+    background: rgba(255, 255, 255, 0.96);
+    border: 1px solid var(--h-border-color);
+    border-radius: 999px;
+    box-shadow: 0 0.6rem 1.4rem rgba(31, 41, 55, 0.12);
+    font-size: 0.9rem;
+    font-weight: 800;
+    line-height: 1;
+}
+
+.profile-stat i,
+.profile-like-button i {
+    color: var(--h-title-color);
+    font-size: 1rem;
+}
+
+.profile-like-button {
+    cursor: pointer;
+    font-family: inherit;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.profile-like-button:hover {
+    border-color: rgba(57, 72, 210, 0.38);
+    transform: translateY(-1px);
+}
+
+.profile-like-button.is-liked i {
+    color: #dc2626;
+}
+
+.profile-like-button:disabled {
+    cursor: wait;
+    opacity: 0.72;
+}
+
 @media screen and (max-width: 991px) {
     #avatar {
         margin: 0;
@@ -270,5 +322,9 @@ section .main-body li::marker {
 
     #avatar img {
         height: 7.5rem;
+    }
+
+    .profile-interaction {
+        margin-top: 0.5rem;
     }
 }
