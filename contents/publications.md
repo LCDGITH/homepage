@@ -9,7 +9,7 @@
 1. 李春东,马廷灿,岳名亮. 哪些国家在引领世界科学前沿?——基于极高被引论文视角的分析[C]. 第十四届全国科学计量学与科教评价研讨会, 2023.
 1. 李春东,马廷灿,岳名亮. 极高被引论文作者群体特征研究——以2000年及以前的极高被引SCI论文为例[C].第十三届全国科学计量学与科教评价研讨会, 2022.
 1. 李春东,潘雪莲,顾江唯. 高国际学术流动绩效何以实现？——基于207个案例的fsQCA与NCA联合分析[C]. 2025年江苏省研究生第一届信息资源管理学术创新论坛, 2025.
-1. Li, C. Distinguishing LLM-Generated from Human-Written Code Using Zipf–Mandelbrot Parameters[C]. 2026 ASIS&T Annual Meeting, 2026. 
+1. Li, C., Pan, X. Distinguishing LLM-Generated from Human-Written Code Using Zipf–Mandelbrot Parameters[C]. 2026 ASIS&T Annual Meeting, 2026. 
 1. 赵小军, 李春东, 潘雪莲. 基于GitHub开源仓库的LLM采纳与扩散研究[C]. 2026年中国情报学年会暨情报学与情报工作发展论坛、第十六届全国情报学博士生学术论坛, 2026. 
 
 #### 项目
